@@ -18,6 +18,17 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## tasks
+
+- [x] Born 👶🏻
+- [x] Got a job 💼
+- [x] Code (Day/Night task) 🖥️
+- [ ] Code more and MORE 🧟 ( ... and enjoy a bit of life of course 😉) 
+- [ ] Die (from coding or coffee perhaps) ☠️
+
+
+
+
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/github-contribution-grid-snake.svg" />
 </div>
