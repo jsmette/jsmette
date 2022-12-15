@@ -27,15 +27,13 @@
 - [ ] Die (from coding or coffee perhaps) ☠️
 
 
-
-
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/github-contribution-grid-snake.svg" />
 </div>
 
-<!--<div align="center">-->
+<div>
     <img height="300px" src="https://metrics.lecoq.io/jsmette?template=classic"/>
-<!--</div>-->
+</div>
 
 <!--
 **novcod/novcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
