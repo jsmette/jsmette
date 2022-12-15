@@ -1,11 +1,29 @@
 ### Hi there, Nice to meet you ! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<!--START_SECTION:waka-->
+### Skills 🛠️
+- **Languages**: &nbsp;                          Java, Python, Javascript, SQL
+- **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;          Linux, Git, Docker, CI
 
+### Work experience 👔
+| Job Position                 | Company            | Field                        	       | Work Period                |
+| ---------------------------- | ------------------ | ---------------------------------------- | -------------------------- |
+| **Software Engineer**        | **EVS Broadcast**  | **Dev (tooling and test automation)**    | **30.10.2017 — until now** |
+
+### Education 🎓
+<!-- - [Bachelor's degree] Inpres (year - year)-->
+
+### Certifications 📜
+<!-- - ISTQB-->
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+    <img height="300px" src="https://metrics.lecoq.io/jsmette?template=classic"/>
 </div>
 
 <!--
