@@ -13,6 +13,7 @@
 <!-- - [Bachelor's degree] Inpres (year - year)-->
 
 ### Certifications 📜
+- ISTQB certification
 <!-- - ISTQB-->
 
 <!--START_SECTION:waka-->
@@ -32,7 +33,7 @@
 - [ ] Code more and MORE 🧟 ( ... and enjoy a bit of life of course 😉) 
 - [ ] Die (from coding or coffee perhaps) ☠️
 
-<a href="https://www.buymeacoffee.com/jsmette"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="jsmette" /></a>
+<a href="https://www.buymeacoffee.com/jsmette"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="40" width="155" alt="jsmette" /></a>
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/github-contribution-grid-snake.svg" />
