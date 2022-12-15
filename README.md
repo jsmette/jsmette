@@ -1,10 +1,5 @@
-### Hi there 👋
-⏳ Year progress { ████████████████████████████▁▁ } 95.55 %
----
-⏰ Updated on Thu, 15 Dec 2022 18:09:08 GMT
+### Hi there, Nice to meet you ! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<<<<<<< HEAD
-=======
 ### Skills 🛠️
 - **Languages**: &nbsp;                          Java, Python, Javascript, SQL
 - **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;          Linux, Git, Docker, CI
@@ -82,4 +77,3 @@ Here are some ideas to get you started:
   </a>
 </p>
 -->
->>>>>>> parent of 5a7dbc4 (Update README.md)
