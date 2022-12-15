@@ -18,6 +18,12 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://twitter.com/Nova_BE_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/logo/twitter.svg" alt="Nova_BE_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/julien-smette-540778120/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/logo/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://instagram.com/julien_smette" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/logo/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
 ## tasks
 
 - [x] Born 👶🏻
