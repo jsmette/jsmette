@@ -65,7 +65,7 @@
     <img height="300px" src="https://metrics.lecoq.io/jsmette?template=classic"/>
 </div>
 
-⏳Yearprogress{{}}{NaN}%
+<progress>
 
 <!--
 **novcod/novcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
