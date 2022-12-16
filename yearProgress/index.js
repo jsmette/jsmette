@@ -13,6 +13,6 @@ function generateProgressBar() {
     return 'ok'
 }
 
-const readme = 'Yearprogress'
+const readme = `Year progress`
 
 console.log(readme)
