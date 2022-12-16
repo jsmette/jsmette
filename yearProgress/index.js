@@ -10,7 +10,7 @@ function generateProgressBar() {
     const progressBar =
       '█'.repeat(passedProgressBarIndex) +
       '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
-    return 'ok'
+    return '{ ${progressBar} }'
 }
 
 const readme = 'Yearprogress'
