@@ -13,10 +13,7 @@ function generateProgressBar() {
     return `{ ${progressBar} }`
 }
 
-const readme = `\
-### Hi there 👋
-⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
-
+const readme = `⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ⏰ Updated on ${new Date().toUTCString()}
 `
 
