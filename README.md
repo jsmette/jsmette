@@ -66,9 +66,8 @@
 </div>
 
 <div align="center">
- $(echo -e "<progressstart> 
-")$(node yearProgress/index.js)$(echo -e "
- <progressend>")
+<progressstart> 
+ <progressend>
 </div>
 
 <!--
