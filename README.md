@@ -132,9 +132,6 @@
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### Connect with me
 <p align="left">
 <a href="https://twitter.com/Nova_BE_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/logo/twitter.svg" alt="Nova_BE_" height="30" width="40" /></a>
@@ -253,7 +250,9 @@
 
 ##### Weekly Activity
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
-	
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 	
 ### Git stats	
 
