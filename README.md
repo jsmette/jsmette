@@ -1,5 +1,4 @@
 # Hi there, Nice to meet you ! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=jsmette.jsmette)
 
 ### Skills 🛠️
 - **Languages**: &nbsp;                          Java, Python, Javascript, SQL
@@ -244,9 +243,6 @@
 ---
 
 ### WakaTime Coding Activity
-
-##### Total Time
-<a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://wakatime.com/badge/user/718bf460-1ad2-424c-85ff-63e981f89316.svg?style=for-the-badge" alt="Total time coded since Dec 15 2022" /></a>
 
 ##### Weekly Activity
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
