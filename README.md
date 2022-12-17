@@ -66,8 +66,7 @@
 </div>
 
 <div align="center">
-	<progressstart>
-	<progressend>
+ ⏳ Year progress { ████████████████████████████▁▁ } 96.06 % - ⏰ Updated on Sat, 17 Dec 2022 14:33:19 GMT
 </div>
 
 	<!--
