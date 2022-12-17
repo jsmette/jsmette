@@ -51,7 +51,7 @@
 	
 ---
 
-### 🧡 &nbsp;My passions
+### <img src="assets/parrot-1.gif" height="40"/> &nbsp;My passions
 
 * Technology and software
 * Automobile lover ([@perf_cars](https://www.instagram.com/perf_cars/))
