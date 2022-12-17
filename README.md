@@ -252,6 +252,14 @@
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
+
+```text
+YAML         17 mins         ███████████░░░░░░░░░░░░░░   44.66 %
+Java         14 mins         █████████▒░░░░░░░░░░░░░░░   37.01 %
+JavaScript   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+```
+
 <!--END_SECTION:waka-->
 	
 ### Git stats	
