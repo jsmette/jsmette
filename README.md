@@ -331,6 +331,8 @@ JavaScript               2 repos             ███████████�
     <img height="300px" src="https://metrics.lecoq.io/jsmette?template=classic"/>
 </div>
 
+<img src="assets/star.gif" width="70">
+
 <details>
   <summary>Click here 👆</summary>
   <pre>
@@ -350,7 +352,9 @@ JavaScript               2 repos             ███████████�
 <progressend>
 </div>
 
-<img src="assets/footer.svg" alt="wave"/>
+<p align="right">
+	<img src="assets/footer.svg" alt="wave"/>
+</p>
 
 <!--
 **novcod/novcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
