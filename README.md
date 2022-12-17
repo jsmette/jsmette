@@ -350,7 +350,7 @@ JavaScript               2 repos             ███████████�
 <progressend>
 </div>
 
-<img src="assets/wave.svg" alt="wave"/>
+<img src="assets/footer.svg" alt="wave"/>
 
 <!--
 **novcod/novcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
