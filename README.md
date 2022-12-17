@@ -254,6 +254,10 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 14 December 2022 - To: 16 December 2022
+
+Total Time: 39 mins
+
 YAML         17 mins         ███████████░░░░░░░░░░░░░░   44.66 %
 Java         14 mins         █████████▒░░░░░░░░░░░░░░░   37.01 %
 JavaScript   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
