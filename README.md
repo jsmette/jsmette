@@ -66,9 +66,9 @@
 </div>
 
 <div align="center">
- <progressstart> 
-⏳ Year progress { ████████████████████████████▁▁ } 96.07 % - ⏰ Updated on Sat, 17 Dec 2022 16:06:36 GMT
- <progressend>
+ $(echo -e "<progressstart> 
+")$(node yearProgress/index.js)$(echo -e "
+ <progressend>")
 </div>
 
 <!--
