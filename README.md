@@ -252,18 +252,77 @@
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-574-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 213 Contributions in the Year 2022
+ > 
+> 📦 6.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 166 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
-From: 14 December 2022 - To: 16 December 2022
+🌞 Morning    20 commits     █████░░░░░░░░░░░░░░░░░░░░   19.8% 
+🌆 Daytime    59 commits     ██████████████░░░░░░░░░░░   58.42% 
+🌃 Evening    21 commits     █████░░░░░░░░░░░░░░░░░░░░   20.79% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
 
-Total Time: 39 mins
+```
+📅 **I'm Most Productive on Saturday** 
 
-YAML         17 mins         ███████████░░░░░░░░░░░░░░   44.66 %
-Java         14 mins         █████████▒░░░░░░░░░░░░░░░   37.01 %
-JavaScript   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Thursday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99% 
+Friday       36 commits     █████████░░░░░░░░░░░░░░░░   35.64% 
+Saturday     64 commits     ███████████████░░░░░░░░░░   63.37% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Brussels
+
+💬 Programming Languages: 
+YAML                     17 mins             ███████████░░░░░░░░░░░░░░   44.66% 
+Java                     14 mins             █████████░░░░░░░░░░░░░░░░   37.01% 
+JavaScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.84% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
+
+🔥 Editors: 
+VS Code                  24 mins             ███████████████░░░░░░░░░░   62.99% 
+IntelliJ                 14 mins             █████████░░░░░░░░░░░░░░░░   37.01%
+
+💻 Operating System: 
+Windows                  39 mins             █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               2 repos             █████████████████████████   100.0%
+
+```
+
+
+
+ Last Updated on 17/12/2022 22:25:10 UTC
 <!--END_SECTION:waka-->
 	
 ### Git stats	
