@@ -66,7 +66,9 @@
 </div>
 
 <div align="center">
- <progressstart>/n⏳ Year progress { ████████████████████████████▁▁ } 96.06 % - ⏰ Updated on Sat, 17 Dec 2022 14:47:35 GMT/n<progressend>
+ <progressstart>
+	 ⏳ Year progress { ████████████████████████████▁▁ } 96.06 % - ⏰ Updated on Sat, 17 Dec 2022 14:47:35 GMT
+	 <progressend>
 </div>
 
 <!--
