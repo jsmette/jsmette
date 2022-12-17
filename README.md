@@ -66,8 +66,8 @@
 </div>
 
 <div align="center">
-	<progress>
-	</progress>
+	<progressstart>
+	<progressend>
 </div>
 
 <!--
