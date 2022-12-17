@@ -66,8 +66,9 @@
 </div>
 
 <div align="center">
-<progressstart> 
- <progressend>
+ $(echo -e "<progressstart> 
+")⏳ Year progress { ████████████████████████████▁▁ } 96.08 % - ⏰ Updated on Sat, 17 Dec 2022 16:30:06 GMT$(echo -e "
+ <progressend>")
 </div>
 
 <!--
