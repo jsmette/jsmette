@@ -65,7 +65,10 @@
     <img height="300px" src="https://metrics.lecoq.io/jsmette?template=classic"/>
 </div>
 
-⏳ Year progress { ████████████████████████████▁▁ } 95.79 % - ⏰ Updated on Fri, 16 Dec 2022 15:27:30 GMT
+<div align="center">
+	<progress>
+	</progress>
+</div>
 
 <!--
 **novcod/novcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
