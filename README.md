@@ -155,7 +155,13 @@
 <details>
   <summary>Click here 👆</summary>
   <pre>
-  	<img align='left' src='rick.gif'>
+<table width="100%" border="0">
+  <tr>    
+  <td><img src="assets/rick.gif" alt="" align="left" /></td>
+  <td><img src="assets/rick.gif" alt="" align="center" /></td>
+  <td><img src="assets/rick.gif" alt="" align="right"/></td>
+  </tr>
+</table>
   </pre>
 </details>
 
