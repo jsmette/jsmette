@@ -17,7 +17,7 @@ jobs:
       with:
         node-version: '14.x'
     - name: Update README.md
-      run: sed -i '\%<progressstart>%,\%<progressend>%c\ '"$(echo $'<progressstart>\n')$(node yearProgress/index.js)$(echo $'\n<progressend>')" README.md
+      run: sed -i '\%<progressstart>%,\%<progressend>%c\ '"$(printf '<progressstart>\n')$(node yearProgress/index.js)$(printf '\n<progressend>')" README.md
     - name: Commit change & Push
       run: |
           git config user.name 'github-actions[bot]'
