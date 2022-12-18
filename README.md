@@ -115,31 +115,30 @@
 
 ---
 
-### Work experience 👔
+### 👔 Work experience
 | Job Position                 | Company            | Field                        	       | Work Period                |
 | ---------------------------- | ------------------ | ---------------------------------------- | -------------------------- |
 | **Software Engineer**        | **EVS Broadcast**  | **Dev (tooling and test automation)**    | **30.10.2017 — until now** |
 
 ---
 
-### Education 🎓
+### 🎓 Education
 <!-- - [Bachelor's degree] Inpres (year - year)-->
 
-### Certifications 📜
+### 📜 Certifications
 - ISTQB certification
-<!-- - ISTQB-->
 
 ---
 
-### Connect with me
+### 💬 Connect with me
 <p align="left">
-<a href="https://twitter.com/Nova_BE_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/logo/twitter.svg" alt="Nova_BE_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/julien-smette-540778120/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/logo/linked-in-alt.svg" alt="julien-smette" height="30" width="40" /></a>
-<a href="https://instagram.com/julien_smette" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/logo/instagram.svg" alt="julien_smette" height="30" width="40" /></a>
+	<a href="https://instagram.com/julien_smette" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/logo/instagram.svg" alt="julien_smette" height="30" width="40" /></a>
+	<a href="https://twitter.com/Nova_BE_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/logo/twitter.svg" alt="Nova_BE_" height="30" width="40" /></a>
+	<a href="https://www.linkedin.com/in/julien-smette-540778120/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/logo/linked-in-alt.svg" alt="julien-smette" height="30" width="40" /></a>
 
 ---	
 	
-### Tasks
+### ✅ Tasks
 
 - [x] Born 👶🏻
 - [x] Got a job 💼
@@ -160,13 +159,13 @@
 	
 ---
 	
-### Usefull stuff
+### 🛠️ Usefull stuff
 
 <table>
 <tr>
 <td width="50%" valign="top">
      
-<h3 align="center"> Dev Setup </h3>
+<h3 align="center"> 💻 Dev Setup </h3>
 
 <div align="center">
 
@@ -176,12 +175,12 @@
 | [Cosmic-Sublime](https://github.com/jsmette/Cosmic-Sublime)                           |
 | [Cosmic-VSCode](https://github.com/jsmette/Cosmic-VSCode)                             |
 | [Cosmic-Windows-Terminal](https://github.com/jsmette/Cosmic-Windows-Terminal)         |
-| [Dev-Setup](https://github.com/jsmette/Dev-Setup) |
+| [Dev-Setup 💺](https://github.com/jsmette/Dev-Setup) |
 
 <!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
 </div>
 
-<h3 align="center"> Dev Tools </h3>
+<h3 align="center"> ⚔️ Dev Tools </h3>
 
 <div align="center">
 
@@ -196,7 +195,7 @@
      
 <td width="50%" valign="top">
 
-<h3 align="center"> Cheatsheets </h3>
+<h3 align="center"> 📃 Cheatsheets </h3>
 
 <div align="center">
 
@@ -229,7 +228,7 @@
 	
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### WakaTime Coding Activity
+### ⏱️ WakaTime Coding Activity
 
 ##### Weekly Activity
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
@@ -303,14 +302,12 @@ JavaScript               2 repos             ███████████�
 
 ```
 
-
-
  Last Updated on 18/12/2022 00:56:58 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 	
-### Git stats	
+### 🐙 Git stats	
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/github-contribution-grid-snake.svg" />
@@ -323,7 +320,7 @@ JavaScript               2 repos             ███████████�
 ---
 
 <details>
-  <summary>Click here 👆</summary>
+  <summary>Click here ☝🏻</summary>
   <pre>
 <table width="100%" border="0">
   <tr>    
@@ -345,18 +342,6 @@ JavaScript               2 repos             ███████████�
 	<img src="assets/footer.svg" alt="wave"/>
 </p>
 
-<!--
-**novcod/novcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!--
 <p align="center">
   <a href="https://twitter.com/iolardemartini" target="_blank">
