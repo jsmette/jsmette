@@ -240,7 +240,7 @@
 
 </table>	
 	
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### WakaTime Coding Activity
 
@@ -320,6 +320,8 @@ JavaScript               2 repos             ███████████�
 
  Last Updated on 18/12/2022 00:56:58 UTC
 <!--END_SECTION:waka-->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 	
 ### Git stats	
 
