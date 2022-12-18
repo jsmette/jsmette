@@ -172,11 +172,11 @@
 
 | Project Name    |
 | ----------- |
-| [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)                         |
-| [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)                           |
-| [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)                             |
-| [Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal)         |
-| [Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers) |
+| [Cosmic-Terminal](https://github.com/jsmette/Cosmic-Terminal)                         |
+| [Cosmic-Sublime](https://github.com/jsmette/Cosmic-Sublime)                           |
+| [Cosmic-VSCode](https://github.com/jsmette/Cosmic-VSCode)                             |
+| [Cosmic-Windows-Terminal](https://github.com/jsmette/Cosmic-Windows-Terminal)         |
+| [Dev-Setup](https://github.com/jsmette/Dev-Setup) |
 
 <!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
 </div>
@@ -187,9 +187,7 @@
 
 | Project Name    |
 | ----------- |
-| [Dev-tools](https://github.com/lifeparticle/dev-tools)                                      |
-| [Houdini](https://github.com/lifeparticle/Houdini)                                          |
-
+| [Dev-tools](https://github.com/jsmette/dev-tools)                                      |
 
 </div>
 
@@ -198,39 +196,28 @@
      
 <td width="50%" valign="top">
 
-<h3 align="center"> Bots </h3>
-
-<div align="center">
-     
-| Bot Name    | Status      |
-| ----------- | ----------- |
-| [Profile Bot](https://github.com/lifeparticle/lifeparticle/blob/master/build_readme.py)          | [![Build README](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml)       |
-| [Twitter Tweet Bot](https://github.com/lifeparticle/twitter-tweet-bot/blob/main/build_json.py)   | [![Build Json](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml)        |
-
-</div>
-
 <h3 align="center"> Cheatsheets </h3>
 
 <div align="center">
 
 | URL      |
 | ----------- |
-| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)                            |
-| [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)                        |
-| [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)                                |
-| [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)                            |
-| [C-Sharp-Cheatsheet](https://github.com/lifeparticle/C-Sharp-Cheatsheet)                      |
-| [PHP-Cheatsheet](https://github.com/lifeparticle/PHP-Cheatsheet)                              |
-| [CSS-Cheatsheet](https://github.com/lifeparticle/CSS-Cheatsheet)                              |
-| [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)                    |
-| [MySQL-Snippets](https://github.com/lifeparticle/MySQL-Snippets)                              |
-| [PostgreSql-Snippets](https://github.com/lifeparticle/PostgreSql-Snippets)                    |
-| [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)                        |
-| [GraphQL-Cheatsheet](https://github.com/lifeparticle/GraphQL-Cheatsheet)                      |
-| [JSON-Cheatsheet](https://github.com/lifeparticle/JSON-Cheatsheet)                            |
-| [Vercel-Cheatsheet](https://github.com/lifeparticle/Vercel-Cheatsheet)                        |
-| [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)                              |
-| [Terminal-Commands-Cheatsheet](https://github.com/lifeparticle/Terminal-Commands-Cheatsheet)  |
+| [Ruby-Cheatsheet](https://github.com/jsmette/Ruby-Cheatsheet)                            |
+| [Python-Cheatsheet](https://github.com/jsmette/Python-Cheatsheet)                        |
+| [JS-Cheatsheet](https://github.com/jsmette/JS-Cheatsheet)                                |
+| [Java-Cheatsheet](https://github.com/jsmette/Java-Cheatsheet)                            |
+| [C-Sharp-Cheatsheet](https://github.com/jsmette/C-Sharp-Cheatsheet)                      |
+| [PHP-Cheatsheet](https://github.com/jsmette/PHP-Cheatsheet)                              |
+| [CSS-Cheatsheet](https://github.com/jsmette/CSS-Cheatsheet)                              |
+| [Markdown-Cheatsheet](https://github.com/jsmette/Markdown-Cheatsheet)                    |
+| [MySQL-Snippets](https://github.com/jsmette/MySQL-Snippets)                              |
+| [PostgreSql-Snippets](https://github.com/jsmette/PostgreSql-Snippets)                    |
+| [SQLite-Cheatsheet](https://github.com/jsmette/SQLite-Cheatsheet)                        |
+| [GraphQL-Cheatsheet](https://github.com/jsmette/GraphQL-Cheatsheet)                      |
+| [JSON-Cheatsheet](https://github.com/jsmette/JSON-Cheatsheet)                            |
+| [Vercel-Cheatsheet](https://github.com/jsmette/Vercel-Cheatsheet)                        |
+| [Git-Cheatsheet](https://github.com/jsmette/Git-Cheatsheet)                              |
+| [Terminal-Commands-Cheatsheet](https://github.com/jsmette/Terminal-Commands-Cheatsheet)  |
     
 </div>
 
