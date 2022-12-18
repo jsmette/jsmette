@@ -99,7 +99,7 @@
 | **Intern**        	       | **MT-C**  	    | **Dev**    			       | **01.02.2017 — 31.05.2017**|
 
 ### 🎓 Education
-- Bachelor's degree in Computer Science (HEPL)
+- Bachelor's degree in Computer Science (HEPL) - Option: Business Data Processing (FR : Informatique de gestion)
 
 ### 📜 Certifications
 - ISTQB® Certified Tester Foundation Level certification
