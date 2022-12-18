@@ -333,7 +333,7 @@ JavaScript               2 repos             ███████████�
     <img height="300px" src="https://metrics.lecoq.io/jsmette?template=classic"/>
 </div>
 
-<img src="assets/star.gif" width="70">
+---
 
 <details>
   <summary>Click here 👆</summary>
