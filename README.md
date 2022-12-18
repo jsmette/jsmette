@@ -1,6 +1,9 @@
 # Hi there, Nice to meet you ! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
 
 ### 👤 Bio
+Hi guys, my name is Julien Smette. I'm a software engineer from Liège, Belgium. I'm currently working at EVS Broadcast Equipment in the field of test automation and tool creation to bring solutions to the needs/wishes. I work mainly on the backend and sometimes on the frontend for tooling. 
+I work on side projects outside of my job for personal needs or just for the challenge. This account is a bit empty for the moment but it will evolve in 2023.
+Don't hesitate to contact me if you have any interest or questions !
 
 ### 🛠️ Skills
   - 👨‍💻 Programming and Markup Languages</h3>
