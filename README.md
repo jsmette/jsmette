@@ -212,6 +212,8 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 
 </table>	
 	
+<details>
+<summary>⏱️ WakaTime Coding Activity</summary>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### ⏱️ WakaTime Coding Activity
@@ -290,9 +292,12 @@ JavaScript               2 repos             ███████████�
 
  Last Updated on 18/12/2022 00:56:58 UTC
 <!--END_SECTION:waka-->
+</details>
 
+<details>
+<summary>⏱️ Git Coding Activity</summary>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-	
+
 ### 🐙 Git stats	
 
 <div align="center">
@@ -317,7 +322,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmette&layo
 <!--<div>
     <img height="300px" src="https://metrics.lecoq.io/jsmette?template=classic"/>
 </div>-->
-
+</details>
+	
 ---
 
 <details>
