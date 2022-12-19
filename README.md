@@ -298,10 +298,25 @@ JavaScript               2 repos             ███████████�
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/jsmette/jsmette/assets/github-contribution-grid-snake.svg" />
 </div>
-<p><img align='right' alt="star" src="assets/star.gif" width='100'></p>
-<div>
-    <img height="300px" src="https://metrics.lecoq.io/jsmette?template=classic"/>
+
+<div align="center">
+	<img align="center" src="https://streak-stats.demolab.com?user=jsmette&theme=github-dark-blue&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&background=DDDDDD00&ring=1F6FEB&fire=DD4000" alt="jsmette's github stats" />
+	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jsmette&theme=github_dark&utcOffset=8" alt="jsmette's github stats" />
+	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsmette&theme=github_dark" alt="jsmette's github stats" />
 </div>
+
+<div align="center">
+	<a href="https://github.com/jsmette/github-readme-stats"><img align="center"
+src="https://github-readme-stats.vercel.app/api?username=jsmette&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"
+								     alt="jsmette's github stats" /></a>
+	&nbsp;&nbsp;
+	<a href="https://github.com/jsmette/github-readme-stats"><img align="center"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmette&layout=compact&theme=transparent&hide_border=true" /></a>
+</div>
+
+<!--<div>
+    <img height="300px" src="https://metrics.lecoq.io/jsmette?template=classic"/>
+</div>-->
 
 ---
 
