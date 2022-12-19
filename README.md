@@ -125,7 +125,8 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 ---	
 	
 ### ✅ Tasks
-
+<p><img align='right' alt="dev cat" src="assets/cat.gif" width='200'></p>
+	
 - [x] Born 👶🏻
 - [x] Got a job 💼
 - [x] Code (Day/Night task) 🖥️
