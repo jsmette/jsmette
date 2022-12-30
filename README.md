@@ -225,7 +225,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-39%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-574-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-481-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29%20Thousand%20lines%20of%20code-blue)
 
@@ -233,7 +233,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 
 > 🏆 272 Contributions in the Year 2022
  > 
-> 📦 7.8 kB Used in GitHub's Storage 
+> 📦 7.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -289,7 +289,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 29/12/2022 00:59:17 UTC
+ Last Updated on 30/12/2022 00:58:59 UTC
 <!--END_SECTION:waka-->
 </details>
 
