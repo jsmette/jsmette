@@ -223,7 +223,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -270,18 +270,18 @@ Sunday       28 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Groovy                   1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   34.71% 
-Properties               1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   32.53% 
-Text                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-CSV/TSV                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
+Groovy                   9 hrs 53 mins       ████████████████░░░░░░░░░   66.69% 
+Properties               2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
+Text                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
+CSV/TSV                  30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
+Gradle                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
 
 🔥 Editors: 
-IntelliJ                 5 hrs 16 mins       ████████████████████████░   95.85% 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.15%
+IntelliJ                 14 hrs 36 mins      ████████████████████████░   98.46% 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54%
 
 💻 Operating System: 
-Windows                  5 hrs 30 mins       █████████████████████████   100.0%
+Windows                  14 hrs 50 mins      █████████████████████████   100.0%
 
 ```
 
@@ -294,7 +294,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 31/01/2023 01:02:37 UTC
+ Last Updated on 01/02/2023 01:08:12 UTC
 <!--END_SECTION:waka-->
 </details>
 
