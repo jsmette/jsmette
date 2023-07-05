@@ -223,7 +223,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -268,13 +268,18 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Groovy                   30 mins             ██████████████████░░░░░░░   70.72 % 
+Bash                     12 mins             ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 30 mins             ██████████████████░░░░░░░   70.98 % 
+VS Code                  12 mins             ███████░░░░░░░░░░░░░░░░░░   29.02 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -286,7 +291,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 04/07/2023 01:10:21 UTC
+ Last Updated on 05/07/2023 01:11:47 UTC
 <!--END_SECTION:waka-->
 </details>
 
