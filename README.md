@@ -223,7 +223,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -268,16 +268,17 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Text                     0 secs              █████████████░░░░░░░░░░░░   50.01 % 
-Groovy                   0 secs              ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-CSV/TSV                  0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Groovy                   1 hr 2 mins         ███████████████████░░░░░░   75.48 % 
+Text                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.00 % 
+IntelliJ                 1 hr 23 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -289,7 +290,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 09/01/2024 00:52:17 UTC
+ Last Updated on 10/01/2024 00:52:41 UTC
 <!--END_SECTION:waka-->
 </details>
 
