@@ -223,7 +223,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -268,17 +268,17 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Groovy                   3 hrs 26 mins       ████████████████████░░░░░   78.75 % 
-CSV/TSV                  27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Java Properties          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Groovy                   3 hrs 18 mins       ███████████████████████░░   92.89 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Java Properties          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-IntelliJ                 4 hrs 22 mins       █████████████████████████   100.00 % 
+IntelliJ                 3 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -290,7 +290,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 09/03/2024 00:46:02 UTC
+ Last Updated on 10/03/2024 00:51:57 UTC
 <!--END_SECTION:waka-->
 </details>
 
