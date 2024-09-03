@@ -340,7 +340,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmette&layo
 
 <div align="center">
  <progressstart> 
-⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.22 %
+⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.28 %
 <progressend>
 </div>
 
