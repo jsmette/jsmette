@@ -223,7 +223,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -268,18 +268,18 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Groovy                   9 hrs 19 mins       █████████████████░░░░░░░░   66.25 % 
-Bash                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Java Properties          1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Text                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Properties               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Groovy                   10 hrs 30 mins      █████████████████░░░░░░░░   66.63 % 
+Bash                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Java Properties          1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Properties               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🔥 Editors: 
-IntelliJ IDEA            12 hrs 24 mins      ██████████████████████░░░   88.19 % 
-VS Code                  1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+IntelliJ IDEA            13 hrs 42 mins      ██████████████████████░░░   86.93 % 
+VS Code                  2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 
 💻 Operating System: 
-Windows                  14 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -291,7 +291,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 25/10/2024 01:04:51 UTC
+ Last Updated on 26/10/2024 01:02:47 UTC
 <!--END_SECTION:waka-->
 </details>
 
