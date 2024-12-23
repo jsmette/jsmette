@@ -231,7 +231,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 
 **🐱 My GitHub Data** 
 
-> 📦 8.7 kB Used in GitHub's Storage 
+> 📦 8.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2024
  > 
@@ -290,7 +290,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 22/12/2024 01:10:12 UTC
+ Last Updated on 23/12/2024 01:06:06 UTC
 <!--END_SECTION:waka-->
 </details>
 
