@@ -233,8 +233,6 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 
 > 📦 8.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 198 Public Repositories 
@@ -290,7 +288,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 26/01/2025 01:05:13 UTC
+ Last Updated on 27/01/2025 01:04:31 UTC
 <!--END_SECTION:waka-->
 </details>
 
