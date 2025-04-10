@@ -223,7 +223,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-810%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -268,17 +268,18 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Groovy                   16 hrs 48 mins      █████████████████████░░░░   84.62 % 
-Text                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Java Properties          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Properties               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Groovy                   17 hrs 54 mins      █████████████████████░░░░   84.58 % 
+Text                     1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Java Properties          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Properties               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-IntelliJ IDEA            19 hrs 52 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            21 hrs 9 mins       █████████████████████████   99.95 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  19 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -290,7 +291,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 09/04/2025 01:10:17 UTC
+ Last Updated on 10/04/2025 01:10:17 UTC
 <!--END_SECTION:waka-->
 </details>
 
