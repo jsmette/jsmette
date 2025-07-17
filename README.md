@@ -223,7 +223,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C017%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -268,18 +268,18 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Groovy                   15 hrs 37 mins      ███████████████████░░░░░░   77.82 % 
-Kotlin                   1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-CSV                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Gradle                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Text                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Groovy                   18 hrs 14 mins      ████████████████████░░░░░   79.89 % 
+Kotlin                   1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Java Properties          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-IntelliJ IDEA            20 hrs 3 mins       █████████████████████████   99.91 % 
+IntelliJ IDEA            22 hrs 48 mins      █████████████████████████   99.91 % 
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  20 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  22 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -291,7 +291,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 16/07/2025 01:20:59 UTC
+ Last Updated on 17/07/2025 01:21:49 UTC
 <!--END_SECTION:waka-->
 </details>
 
