@@ -233,48 +233,14 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 
 > 📦 9.1 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 198 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                48 commits          ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-🌆 Daytime                83 commits          ███████████░░░░░░░░░░░░░░   44.15 % 
-🌃 Evening                40 commits          █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-🌙 Night                  17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Friday                   64 commits          █████████░░░░░░░░░░░░░░░░   34.04 % 
-Saturday                 64 commits          █████████░░░░░░░░░░░░░░░░   34.04 % 
-Sunday                   28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Brussels
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -284,7 +250,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 16/09/2025 01:08:05 UTC
+ Last Updated on 17/09/2025 01:07:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
