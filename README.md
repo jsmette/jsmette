@@ -223,6 +223,8 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2035%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.8%20thousand%20lines%20of%20code-blue)
@@ -248,7 +250,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 03/10/2025 01:07:52 UTC
+ Last Updated on 04/10/2025 01:05:22 UTC
 <!--END_SECTION:waka-->
 </details>
 
