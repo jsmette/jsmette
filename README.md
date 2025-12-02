@@ -225,7 +225,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C261%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.8%20thousand%20lines%20of%20code-blue)
 
@@ -292,7 +292,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 01/12/2025 01:28:12 UTC
+ Last Updated on 02/12/2025 01:16:28 UTC
 <!--END_SECTION:waka-->
 </details>
 
