@@ -233,7 +233,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 
 > 📦 9.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -286,7 +286,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 31/12/2025 01:20:49 UTC
+ Last Updated on 01/01/2026 01:27:35 UTC
 <!--END_SECTION:waka-->
 </details>
 
