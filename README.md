@@ -223,7 +223,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C301%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C303%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -268,17 +268,17 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-CSV                      20 mins             ████████████░░░░░░░░░░░░░   47.10 % 
-Text                     16 mins             ██████████░░░░░░░░░░░░░░░   38.61 % 
-Groovy                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-CSV file                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Groovy                   56 mins             ██████████░░░░░░░░░░░░░░░   38.52 % 
+Text                     48 mins             ████████░░░░░░░░░░░░░░░░░   32.94 % 
+CSV                      22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Properties               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+CSV file                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-IntelliJ IDEA            43 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -290,7 +290,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 08/01/2026 01:21:54 UTC
+ Last Updated on 09/01/2026 01:21:45 UTC
 <!--END_SECTION:waka-->
 </details>
 
