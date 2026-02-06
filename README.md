@@ -223,7 +223,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C346%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C348%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -268,17 +268,17 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Groovy                   5 hrs 48 mins       █████████████░░░░░░░░░░░░   52.62 % 
-CSV                      2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Java Properties          1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Properties               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-CSV file                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Groovy                   7 hrs 59 mins       ██████████████████░░░░░░░   71.45 % 
+CSV                      1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Java Properties          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Properties               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 hrs 3 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            11 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -290,7 +290,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 05/02/2026 01:46:35 UTC
+ Last Updated on 06/02/2026 01:46:17 UTC
 <!--END_SECTION:waka-->
 </details>
 
