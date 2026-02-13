@@ -223,7 +223,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C363%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C368%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -268,17 +268,17 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Groovy                   12 hrs 48 mins      ███████████████████░░░░░░   75.42 % 
-Java Properties          1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Properties               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-CSV                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Text                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Groovy                   11 hrs 38 mins      ███████████████░░░░░░░░░░   59.19 % 
+CSV                      3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+CSV file                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Java Properties          1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Properties               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 
 🔥 Editors: 
-IntelliJ IDEA            16 hrs 58 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            19 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -290,7 +290,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 12/02/2026 01:52:49 UTC
+ Last Updated on 13/02/2026 01:55:19 UTC
 <!--END_SECTION:waka-->
 </details>
 
