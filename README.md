@@ -223,7 +223,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C702%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C707%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20mins-blue?style=flat)
 
@@ -270,19 +270,19 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Groovy                   11 hrs 9 mins       ███████████████████░░░░░░   75.69 % 
-Properties               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Text                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Java Properties          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Groovy                   14 hrs 32 mins      ████████████████████░░░░░   81.13 % 
+Properties               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Text                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Java Properties          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🔥 Editors: 
-IntelliJ IDEA            14 hrs 10 mins      ████████████████████████░   96.12 % 
-VS Code                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+IntelliJ IDEA            17 hrs 27 mins      ████████████████████████░   97.40 % 
+VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  14 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -300,7 +300,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 11/08/2026 01:18:49 UTC
+ Last Updated on 12/08/2026 01:27:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
