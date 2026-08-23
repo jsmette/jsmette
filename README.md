@@ -270,38 +270,41 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Groovy                   5 hrs 19 mins       ████████████░░░░░░░░░░░░░   49.17 % 
-CSV                      1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Java Properties          1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-JavaScript               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Properties               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Groovy                   8 hrs 9 mins        ██████████████░░░░░░░░░░░   54.82 % 
+CSV                      2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Java Properties          1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Properties               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 35 mins       ██████████████████████░░░   88.62 % 
-WebStorm                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+IntelliJ IDEA            14 hrs 34 mins      ████████████████████████░   97.96 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+WebStorm                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Windows                  10 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (2.32%)
+⏱ AI Coding Time: 34 mins (3.88%)
 
-✍️ 0 lines written by AI, 1,902 lines written by hand (0.0% AI-written)
+✍️ 26 lines written by AI, 2,083 lines written by hand (1.23% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 50,303 Input Tokens, 512 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.16 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 6 AI Prompts
+
+Github-Copilot           26 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 4 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 1.23% of written lines came from AI
+📝 Concise Prompter — average 259 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 99.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -313,7 +316,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 22/08/2026 00:58:01 UTC
+ Last Updated on 23/08/2026 01:02:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
