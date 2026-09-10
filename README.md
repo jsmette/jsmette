@@ -270,26 +270,26 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Groovy                   13 hrs 3 mins       █████████████████████░░░░   82.60 % 
-Java Properties          1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Properties               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Gradle                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Groovy                   9 hrs 41 mins       █████████████████████░░░░   82.09 % 
+Text                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Java Properties          44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Properties               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-IntelliJ IDEA            15 hrs 44 mins      █████████████████████████   99.59 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+IntelliJ IDEA            11 hrs 44 mins      █████████████████████████   99.45 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Windows                  15 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (0.18%)
+⏱ AI Coding Time: 1 min (0.24%)
 
-✍️ 0 lines written by AI, 1,850 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,362 lines written by hand (0.0% AI-written)
 
 🔤 32,308 Input Tokens, 98 Output Tokens
 
@@ -315,7 +315,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 09/09/2026 02:48:18 UTC
+ Last Updated on 10/09/2026 02:49:57 UTC
 <!--END_SECTION:waka-->
 </details>
 
