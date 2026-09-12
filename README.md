@@ -270,40 +270,23 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Groovy                   5 hrs 9 mins        ████████████████████░░░░░   78.68 % 
-Java Properties          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Text                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Properties               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Java Properties          28 mins             █████████░░░░░░░░░░░░░░░░   34.49 % 
+Groovy                   21 mins             ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+Properties               17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+Text                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 29 mins       █████████████████████████   99.00 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+IntelliJ IDEA            1 hr 21 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (0.44%)
-
-✍️ 0 lines written by AI, 649 lines written by hand (0.0% AI-written)
-
-🔤 32,308 Input Tokens, 98 Output Tokens
-
-💵 $0.10 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 243 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -315,7 +298,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 11/09/2026 02:43:21 UTC
+ Last Updated on 12/09/2026 02:52:42 UTC
 <!--END_SECTION:waka-->
 </details>
 
