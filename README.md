@@ -270,17 +270,13 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Java Properties          28 mins             █████████░░░░░░░░░░░░░░░░   34.49 % 
-Groovy                   21 mins             ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-Properties               17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-Text                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 21 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -298,7 +294,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 12/09/2026 02:52:42 UTC
+ Last Updated on 13/09/2026 02:51:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
