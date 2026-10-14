@@ -223,9 +223,9 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C808%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C808%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -243,72 +243,6 @@ Don't hesitate to contact me if you have any interest or questions !</p>
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                48 commits          ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-🌆 Daytime                83 commits          ███████████░░░░░░░░░░░░░░   44.15 % 
-🌃 Evening                40 commits          █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-🌙 Night                  17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Friday                   64 commits          █████████░░░░░░░░░░░░░░░░   34.04 % 
-Saturday                 64 commits          █████████░░░░░░░░░░░░░░░░   34.04 % 
-Sunday                   28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Brussels
-
-💬 Programming Languages: 
-Kotlin                   3 hrs 42 mins       ███████████████████░░░░░░   74.16 % 
-Groovy                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Shell Script             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-GitIgnore file           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-
-🔥 Editors: 
-IntelliJ IDEA            2 hrs 41 mins       █████████████░░░░░░░░░░░░   53.73 % 
-Copilot                  1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-Copilot CLI              1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-
-💻 Operating System: 
-Windows                  5 hrs               █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 4 mins (61.38%)
-
-✍️ 144 lines written by AI, 34 lines written by hand (80.9% AI-written)
-
-🔤 1,615,564 Input Tokens, 0 Output Tokens
-
-💵 $9.32 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 55 AI Prompts
-
-Sonnet                   154 lines           █████████████████████████   100.00 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 80.9% of written lines came from AI
-📝 Concise Prompter — average 157 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🔍 Hands-On Reviewer — 99.74% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -318,7 +252,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 13/10/2026 05:12:11 UTC
+ Last Updated on 14/10/2026 03:17:56 UTC
 <!--END_SECTION:waka-->
 </details>
 
