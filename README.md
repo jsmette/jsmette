@@ -243,6 +243,72 @@ Don't hesitate to contact me if you have any interest or questions !</p>
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                48 commits          ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+🌆 Daytime                83 commits          ███████████░░░░░░░░░░░░░░   44.15 % 
+🌃 Evening                40 commits          █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+🌙 Night                  17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Friday                   64 commits          █████████░░░░░░░░░░░░░░░░   34.04 % 
+Saturday                 64 commits          █████████░░░░░░░░░░░░░░░░   34.04 % 
+Sunday                   28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Brussels
+
+💬 Programming Languages: 
+Kotlin                   4 hrs 5 mins        ███████████████████░░░░░░   75.34 % 
+Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Groovy                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Gradle                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Shell Script             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+
+🔥 Editors: 
+IntelliJ IDEA            2 hrs 43 mins       █████████████░░░░░░░░░░░░   50.25 % 
+Copilot CLI              1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+Copilot                  1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+
+💻 Operating System: 
+Windows                  5 hrs 25 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 31 mins (64.82%)
+
+✍️ 389 lines written by AI, 55 lines written by hand (87.61% AI-written)
+
+🔤 1,731,647 Input Tokens, 21,948 Output Tokens
+
+💵 $10.35 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 68 AI Prompts
+
+Sonnet                   399 lines           █████████████████████████   100.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 87.61% of written lines came from AI
+📝 Concise Prompter — average 148 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 99.32% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -252,7 +318,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 14/10/2026 03:17:56 UTC
+ Last Updated on 15/10/2026 02:56:44 UTC
 <!--END_SECTION:waka-->
 </details>
 
