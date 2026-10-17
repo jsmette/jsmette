@@ -223,9 +223,9 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C809%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C812%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -270,42 +270,43 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 39 mins       ████████████████████░░░░░   79.13 % 
-GitIgnore file           18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Shell Script             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Groovy                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Kotlin                   5 hrs 24 mins       ██████████████████░░░░░░░   73.44 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+GitIgnore file           18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Shell Script             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Groovy                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 22 mins       ██████████████░░░░░░░░░░░   57.52 % 
-Copilot                  1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-Copilot CLI              1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+IntelliJ IDEA            3 hrs 56 mins       █████████████░░░░░░░░░░░░   53.52 % 
+Copilot CLI              1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+Copilot                  1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+WebStorm                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 
 💻 Operating System: 
-Windows                  5 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 18 mins (56.38%)
+⏱ AI Coding Time: 3 hrs 56 mins (53.48%)
 
-✍️ 144 lines written by AI, 103 lines written by hand (58.3% AI-written)
+✍️ 146 lines written by AI, 104 lines written by hand (58.4% AI-written)
 
-🔤 1,693,206 Input Tokens, 0 Output Tokens
+🔤 10,443,456 Input Tokens, 217,080 Output Tokens
 
-💵 $9.88 Estimated AI Cost This Week
+💵 $39.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 65 AI Prompts
+🧠 5 AI Sessions, 70 AI Prompts
 
-Sonnet                   154 lines           █████████████████████████   100.00 % 
+Sonnet                   156 lines           █████████████████████████   100.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 58.3% of written lines came from AI
-📝 Concise Prompter — average 146 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
+⚖️ Balanced with AI — 58.4% of written lines came from AI
+📝 Concise Prompter — average 141 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
 🔍 Hands-On Reviewer — 99.74% of changed lines were hand-edited
 ```
 
@@ -318,7 +319,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 16/10/2026 02:54:10 UTC
+ Last Updated on 17/10/2026 02:45:18 UTC
 <!--END_SECTION:waka-->
 </details>
 
