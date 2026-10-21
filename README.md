@@ -270,43 +270,43 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 12 mins       ███████████████░░░░░░░░░░   60.77 % 
-Markdown                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-TypeScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-GitIgnore file           10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Kotlin                   1 hr 49 mins        ███████████░░░░░░░░░░░░░░   43.30 % 
+Markdown                 43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+TypeScript               36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+JavaScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+GitIgnore file           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.98 % 
-WebStorm                 1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-Copilot CLI              1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Copilot                  54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+WebStorm                 1 hr 52 mins        ███████████░░░░░░░░░░░░░░   44.43 % 
+IntelliJ IDEA            1 hr 51 mins        ███████████░░░░░░░░░░░░░░   44.38 % 
+Copilot CLI              26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Copilot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Windows                  6 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 50 mins (40.89%)
+⏱ AI Coding Time: 46 mins (18.34%)
 
-✍️ 14 lines written by AI, 1,248 lines written by hand (1.11% AI-written)
+✍️ 2 lines written by AI, 1,231 lines written by hand (0.16% AI-written)
 
-🔤 10,186,314 Input Tokens, 227,034 Output Tokens
+🔤 8,970,156 Input Tokens, 227,034 Output Tokens
 
-💵 $35.81 Estimated AI Cost This Week
+💵 $33.03 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 50 AI Prompts
+🧠 4 AI Sessions, 10 AI Prompts
 
-Sonnet                   24 lines            █████████████████████████   100.00 % 
+Sonnet                   9 lines             █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.11% of written lines came from AI
-📝 Concise Prompter — average 139 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 99.3% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.16% of written lines came from AI
+📝 Concise Prompter — average 93 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 99.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -318,7 +318,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 20/10/2026 03:09:43 UTC
+ Last Updated on 21/10/2026 03:04:17 UTC
 <!--END_SECTION:waka-->
 </details>
 
