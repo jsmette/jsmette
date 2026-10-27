@@ -223,7 +223,7 @@ Don't hesitate to contact me if you have any interest or questions !</p>
 <a href="https://wakatime.com/@jsmette" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsmette&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C813%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C814%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2021%20mins-blue?style=flat)
 
@@ -270,24 +270,24 @@ Sunday                   28 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Groovy                   36 mins             ████████████░░░░░░░░░░░░░   46.84 % 
-Kotlin                   26 mins             █████████░░░░░░░░░░░░░░░░   34.71 % 
-Gradle                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Properties               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Java Properties          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Groovy                   49 mins             █████████████░░░░░░░░░░░░   51.74 % 
+Kotlin                   26 mins             ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+Properties               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Gradle                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Java Properties          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 🔥 Editors: 
-IntelliJ IDEA            56 mins             ██████████████████░░░░░░░   73.73 % 
-Copilot CLI              20 mins             ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+IntelliJ IDEA            1 hr 15 mins        ████████████████████░░░░░   78.87 % 
+Copilot CLI              20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
 
 💻 Operating System: 
-Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (27.68%)
+⏱ AI Coding Time: 21 mins (22.26%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -301,7 +301,7 @@ Windows                  1 hr 17 mins        ███████████�
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📝 Concise Prompter — average 109 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -313,7 +313,7 @@ JavaScript               2 repos             ███████████�
 
 
 
- Last Updated on 26/10/2026 02:55:57 UTC
+ Last Updated on 27/10/2026 03:28:38 UTC
 <!--END_SECTION:waka-->
 </details>
 
